@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.CardInfos{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    margin-top: 5px;
+    background-color: transparent;
+}
+
+.CardInfos p{
+    padding: 5px;
+    color: black;
+    font-family: Arial;
+    font-size: 12px;
+    text-align: center;
+    background: transparent;
+}
+
+.CardInfos a{
+    margin-top: 0;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    font-family: Arial;
+    text-align: center;
+    text-decoration: none;
+    text-decoration-style: none;
+    cursor: pointer;
+}
+
+.CardInfos a p{
+    margin-top: 0;
+    font-family: Arial;
+    color: blue;
+}
+
